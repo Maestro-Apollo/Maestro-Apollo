@@ -1,5 +1,14 @@
 ![Rafi Mahafid's github stats](https://github-readme-stats.vercel.app/api?username=Maestro-Apollo&hide=stars,issues&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maestro-Apollo&theme=radical&layout=compact)](https://github.com/Maestro-Apollo/github-readme-stats)
 
+🔭 I’m currently working on Software Engineer
+🌱 I’m currently learning React
+👯 I’m looking to collaborate on Web Application
+🤔 I’m looking for help with Job-Seeking
+💬 Ask me about Web Tech
+📫 How to reach me: rafimahafid@gmail.com
+😄 Pronouns: He/Him
+⚡ Fun fact: Anime, Food, Travel
+
 <!--
 **Maestro-Apollo/Maestro-Apollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

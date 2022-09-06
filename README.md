@@ -1,25 +1,77 @@
-![Rafi Mahafid's github stats](https://github-readme-stats.vercel.app/api?username=Maestro-Apollo&hide=stars,issues&theme=radical) [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Maestro-Apollo&theme=radical&layout=compact)](https://github.com/Maestro-Apollo/github-readme-stats)
+## Hi 👋, I'm a Full Stack Developer working from Dhaka, Bangladesh
 
-🔭 I’m currently working on Software Engineer
-🌱 I’m currently learning React
-👯 I’m looking to collaborate on Web Application
-🤔 I’m looking for help with Job-Seeking
-💬 Ask me about Web Tech
-📫 How to reach me: rafimahafid@gmail.com
-😄 Pronouns: He/Him
-⚡ Fun fact: Anime, Food, Travel
+<p align="left">
+  <a href="https://leetcode.com/rafimahafid/">
+    <img src="https://cp-logo.vercel.app/leetcode/rafimahafid" alt="Leet code rating" />
+  </a>
+ 
+  <a href="https://stackoverflow.com/users/14045437/rafi-mahafid">
+    <img alt="Stack Overflow reputation" src="https://img.shields.io/stackexchange/stackoverflow/r/5921662?color=orange&label=reputation&logo=stackoverflow">
+  </a>
+  <a href="https://github.com/Maestro-Apollo?tab=followers">
+    <img alt="GitHub followers" src="https://img.shields.io/github/followers/Maestro-Apollo?color=green&logo=github">
+  </a>
+  <a href="https://github.com/Maestro-Apollo/">
+    <img src="https://komarev.com/ghpvc/?username=Maestro-Apollo" alt="visitors" />
+  </a>
 
-<!--
-**Maestro-Apollo/Maestro-Apollo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</p>
 
-Here are some ideas to get you started:
+#### Now
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ✨ Contributing to [Fiverr](https://www.fiverr.com/web_apollo?up_rollout=true)
+- :fire: Interested in Full Stack and Database Management
+- :calendar: Looking for contributing to javascript based open source projects
+- :office: Trainee at [B-JET](https://bjet.org/)
+
+#### Bio
+
+- 🏢 I'm currently working as **Freelancer**
+- ⚙️ I use daily: `.php`, `.js`, `.sql`, `.html`
+- 🌍 I'm mostly active within the **JavaScript Community**
+- 🌱 Learning all about **Full Stack**
+- 💬 Ping me about **PHP**, **JavaScript**, **MySQL**, **PHPMyAdmin**
+- 📫 Reach me: rafimahafid@gmail.com
+- 📝 Checkout my [Resume](files/Rafi%20Mahafid%20Resume.pdf).
+
+#### My Current Stack
+
+<img height="48" src="img/js_logo.svg" alt="javascript"> <img height="48" src="img/new-php-logo.svg" alt="php"> <img height="48" src="img/mysql-ar21.svg" alt="mysql"> <img height="48" src="img/laravel-2.svg" alt="laravel"> <img height="48" src="img/mongodb-icon-1.svg" alt="mongodb"> <img height="48" src="img/bootstrap-4.svg" alt="bootstrap4"> <img height="48" src="img/jquery-4.svg" alt="jquery"> <img height="48" src="img/git-original.svg" alt="git"> <img height="48" src="img/nodejs-icon.svg" alt="nodejs"> <img height="48" src="img/react-original.svg" alt="react">
+
+#### Development Stuffs:
+
+<b>⚡ Github Stats</b>
+
+<p float="left">
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Maestro-Apollo&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Maestro-Apollo&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+</p>
+
+<!-- <b>&#128200; Competitive Programming</b>
+
+<p float="left">
+<img height="273em" src="https://leetcard.jacoblin.cool/rafimahafid?theme=light&font=Karma&ext=contest" />
+
+</p> -->
+
+<!-- #### Recent Activity
+
+<p><b> &#9749; Latest Medium Blogs</b></p>
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/0" alt="Latest medium article">
+
+<a target="_blank" href="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1"><img src="https://github-readme-medium-recent-article.vercel.app/medium/@sudiptob2/1" alt="Latest medium article"> </a> -->
+
+#### Connect With Me
+
+<p left="center">
+<a href="https://www.linkedin.com/in/rafi-mahafid/">
+  <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
+</a> 
+<a href="https://www.facebook.com/profile.php?id=100011336448086">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" height=25>
+</a>
+<a href="mailto:rafimahafid@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height=25>
+</a>
+</p>

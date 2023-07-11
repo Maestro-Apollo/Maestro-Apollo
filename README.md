@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Full Stack Developer working from Dhaka, Bangladesh
+## Hi 👋, I'm a Programmer working from Miyazaki, Japan
 
 <p align="left">
   <a href="https://leetcode.com/rafimahafid/">
@@ -32,7 +32,6 @@
 - 🌱 Learning all about **Full Stack**
 - 💬 Ping me about **PHP**, **JavaScript**, **MySQL**, **PHPMyAdmin**
 - 📫 Reach me: rafimahafid@gmail.com
-- 📝 Checkout my [Resume](files/Rafi%20Mahafid%20Resume.pdf).
 
 #### My Current Stack
 

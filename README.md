@@ -19,15 +19,14 @@
 
 #### Now
 
-- ✨ Contributing to [Fiverr](https://www.fiverr.com/web_apollo?up_rollout=true)
 - :fire: Interested in Full Stack and Database Management
 - :calendar: Looking for contributing to javascript based open source projects
 - :office: Trainee at [B-JET](https://bjet.org/)
 
 #### Bio
 
-- 🏢 I'm currently working as **Freelancer**
-- ⚙️ I use daily: `.php`, `.js`, `.sql`, `.html`
+- 🏢 I'm currently working as **Programmer** at Co-Well
+- ⚙️ I use daily: `.js`, `.ts`, `.css`, `.html`
 - 🌍 I'm mostly active within the **JavaScript Community**
 - 🌱 Learning all about **Full Stack**
 - 💬 Ping me about **PHP**, **JavaScript**, **MySQL**, **PHPMyAdmin**

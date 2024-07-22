@@ -21,7 +21,7 @@
 
 - :fire: Interested in Full Stack and Database Management
 - :calendar: Looking for contributing to javascript based open source projects
-- :office: Trainee at [B-JET](https://bjet.org/)
+- :office: Programmer at [株式会社コウェル](https://www.co-well.jp/)
 
 #### Bio
 

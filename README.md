@@ -1,4 +1,4 @@
-## Hi 👋, I'm a Programmer working from Miyazaki, Japan
+## Hi 👋, I'm a Programmer working from Fukuoka, Japan
 
 <p align="left">
   <a href="https://leetcode.com/rafimahafid/">

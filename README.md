@@ -21,7 +21,6 @@
 
 - :fire: Interested in Full Stack and Database Management
 - :calendar: Looking for contributing to PHP & javascript based open source projects
-- :office: Programmer at [株式会社コウェル](https://www.co-well.jp/)
 
 #### Bio
 
